@@ -41,7 +41,7 @@ def LOGO():
 \033[1;31m  8 \033[1;33m  8 8' .8 \033[1;32m `8.    8   8\033[1;36mP   8  8 8  \033[1;34m  88b  8.dP' 8P
 \033[1;31m  88\033[1;33m8P' `Y8P'\033[1;32m dP Yb   8\033[1;36m   8    `Y88 `Y8\033[1;34mP 8 Yb `Y88P 8
 
-     \033[1;31mPeOpLe TrAcKeR\033[1;m \033[1;34mBY\033[1;m BRENANAMAN \033[1;33mVersion:\033[1;32m Beta 2 . 0 \033[1;35m
+     \033[1;31mPeOpLe TrAcKeR\033[1;m \033[1;34mBY\033[1;m BRENANAMAN \033[1;33mVersion:\033[1;32m Beta 2.0 \033[1;35m
      """)
 
 def menu():

@@ -66,7 +66,7 @@ def menu():
 		 IP()
 	elif OPT == "99":
 		KURO()
-		webbrowser.open('https://github.com/KURO-CODE?tab=repositories')
+		webbrowser.open('https://github.com/demoncvvvrf/tool')
 		menu()
 	else:
 		KURO()
